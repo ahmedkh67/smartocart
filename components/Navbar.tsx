@@ -5,7 +5,6 @@ import Link from 'next/link'
 import { Navlist } from '@/Constants'
 import MenuIcon from '@/public/Menu 2 Icon.svg'
 import Image from 'next/image'
-import Logo from '@/public/Logo.jpg'
 import CloseIcon from '@/public/Closeicon.svg'
 
 const Navbar = () => {

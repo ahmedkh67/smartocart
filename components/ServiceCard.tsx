@@ -1,17 +1,16 @@
 "use client"
 
 import React from 'react'
-import Link from 'next/link'
+
 
 
 type ServiceCardTypes = {
     title : string , 
     bio : string , 
-    link: string,
     src: string
 }
 
-function ServiceCard ({title , bio , link, src}: ServiceCardTypes ){
+function ServiceCard ({title , bio , src}: ServiceCardTypes ){
   return (
     <>
         <div className="flex w-[21rem] bg-amber-400 flex-col justify-center items-center rounded-2xl px-3 py-4 my-6 ">

@@ -1,4 +1,4 @@
-import { Commentssec, Distancesec, Herosec, Mapsec, Moresec, NumBoxessec, Projectssec, Servicesec, Whatsicon } from "@/components";
+import { Commentssec, Herosec, Mapsec, Moresec, NumBoxessec, Projectssec, Servicesec, Whatsicon } from "@/components";
 import SocialBoxessec from "@/components/SocialBoxessec";
 import { HeroSldieText, SlidesImages } from "@/Constants";
 
