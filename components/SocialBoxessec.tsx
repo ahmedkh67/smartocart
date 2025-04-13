@@ -17,7 +17,11 @@ const SocialBoxessec = () => {
     </div>
     <div className="flex w-full flex-col justify-center justify-start md:items-end bg-amber-500 pb-10 md:px-48 px-10 -translate-y-40 ">
         <h1 className="text-xl text-center md:text-3xl text-white my-2 opacity-80" >
-            رقم التواصل - 053 031 0044    
+            رقم التواصل - 
+                 
+        </h1>
+        <h1 className="text-xl text-center md:text-3xl text-white opacity-80" >
+        +966 54 336 7208
         </h1>
         
     </div>

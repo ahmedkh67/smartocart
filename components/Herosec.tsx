@@ -113,7 +113,7 @@ function Herosec({slide1 , slide2, slide3,slide4, slide5, slide6, slide7, slide8
        </motion.div>
 
 
-       <Link href={'https://wa.me/+966530310044'} >
+       <Link href={'https://wa.me/+966543367208'} >
        <button className="flex bg-red-500 h-14 justify-center items-center px-12 mt-12 rounded-md
         transition-[0.3s] hover:bg-red-600 ">
           <h1 className='text-white font-bold text-lg'>

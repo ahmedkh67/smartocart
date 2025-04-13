@@ -196,17 +196,17 @@ export const SocialBoxes = [
   {
       title: " انستغرام " ,
       Src: "/insta.svg",
-      link: ""
+      link: "www.instagram.com/smartcart2020"
   },
   {
       title: " البريد " ,
       Src: "/gmail.svg",
-      link: ""
+      link: "mailto:ALHARBAI_10@hotmail.com"
   },
   {
       title: " واتساب " ,
       Src: "/Whatsapp Icon.svg",
-      link: "https://wa.me/+966530310044",
+      link: "https://wa.me/+966543367208",
   },
 ]
 
