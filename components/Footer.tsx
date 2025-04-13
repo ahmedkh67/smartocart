@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link'
-import { footerLinks } from '@/Constants'
+
 
 const Footer = () => {
   return (
