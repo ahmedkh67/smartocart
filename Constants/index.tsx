@@ -196,7 +196,7 @@ export const SocialBoxes = [
   {
       title: " انستغرام " ,
       Src: "/insta.svg",
-      link: "www.instagram.com/smartcart2020"
+      link: "https://www.instagram.com/smartcart2020?igsh=bnZ3NnF2MTF0eTcx"
   },
   {
       title: " البريد " ,
